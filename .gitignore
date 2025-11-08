@@ -1,0 +1,23 @@
+# Ignorar o ambiente virtual
+venv/
+
+# Ignorar o arquivo de segredos (O MAIS IMPORTANTE!)
+*.env
+.env
+
+# Ignorar caches e arquivos de sistema
+__pycache__/
+*.pyc
+.DS_Store
+
+# Ignorar os dados gerados (não são código-fonte)
+data/
+data/raw/
+data/processed/
+data/models/
+
+# Ignorar os modelos treinados (são arquivos binários grandes)
+models/
+
+# Outros
+.ipynb_checkpoints/
