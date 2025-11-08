@@ -208,7 +208,7 @@ O pipeline de NLP (`nlp_analysis.ipynb`) provou ser eficaz em filtrar "ruído" (
 Este notebook paralelo utiliza os dados climáticos completos do INMET e as bibliotecas `geopandas`/`geobr` para criar uma análise geoespacial. Ele explora como as variáveis climáticas (temperatura, precipitação) se distribuem *espacialmente* pelo Brasil e como isso se correlaciona com os centros de consumo regionais, enriquecendo a análise exploratória.
 
 ## 👤 Autores
-  * [jean Carlos](https://github.com/jjeancarlos)
+  * [Jean Carlos](https://github.com/jjeancarlos)
   * [Matheus Menezes](https://github.com/MatheusLuv)
   * [Tiago Elias](https://github.com/TiagosailE)
 
