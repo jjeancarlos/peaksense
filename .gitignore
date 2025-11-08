@@ -11,13 +11,10 @@ __pycache__/
 .DS_Store
 
 # Ignorar os dados gerados (não são código-fonte)
-data/
-data/raw/
-data/processed/
-data/models/
-
-# Ignorar os modelos treinados (são arquivos binários grandes)
-models/
+#data/
+#data/raw/
+#data/processed/
+#data/models/
 
 # Outros
 .ipynb_checkpoints/

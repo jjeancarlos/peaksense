@@ -15,7 +15,7 @@ except NameError:
     BASE_DIR = Path(os.getcwd()).resolve()
 
 DATA_PROCESSED_DIR = BASE_DIR / "data" / "processed"
-MODELS_DIR = BASE_DIR / "models"
+MODELS_DIR = BASE_DIR / "data" / "models"
 
 # Garante que a pasta 'models' exista
 MODELS_DIR.mkdir(parents=True, exist_ok=True)
